@@ -40,32 +40,34 @@ A minimal, clean, and interactive **Todo App** built with React. It helps you or
 
    export default App;
 4. **Start the App**
-    npm start
-    # or
-    yarn start
-#✅ Quick Testing Guide (Human-Friendly)
-    Here’s how to make sure everything works smoothly — just follow along:
 
-🖊️ Try adding a task
-    Type something into the input field and hit "Add Task". Your task should appear below.
+```bash
+npm start
+# or
+yarn start
+```
 
-✅ Mark it complete
-  Click the checkbox to strike it out. Click again to unmark.
+# ✅ Quick Testing Guide (Human-Friendly)
 
-🗑️ Delete with ease
-  Hover over the task, click "Delete", and it disappears.
+Here’s how to make sure everything works smoothly — just follow along:
 
-🎯 Use filters
-  Switch between "All", "Active", and "Completed" to see different views.
+### 🖊️ Try adding a task
+Type something into the input field and hit **"Add Task"**. Your task should appear below.
 
-🔤 Sort them
-  Want them alphabetically arranged? Or by most recent? Try the dropdown!
+### ✅ Mark it complete
+Click the checkbox to strike it out. Click again to unmark.
 
-🔄 Reload the page
-  Yup — your tasks stay. They're saved in your browser.
+### 🗑️ Delete with ease
+Hover over the task, click **"Delete"**, and it disappears.
 
-👀 See the empty state
+### 🎯 Use filters
+Switch between **"All"**, **"Active"**, and **"Completed"** to see different views.
+
+### 🔤 Sort them
+Want them **alphabetically arranged**? Or by **most recent**? Try the dropdown!
+
+### 🔄 Reload the page
+Yup — your tasks stay. They're saved in your browser.
+
+### 👀 See the empty state
 Delete all tasks and see the friendly message encouraging you to start fresh.
-
-📱 Try on mobile
-Open it on your phone. It should look and feel just as smooth!
