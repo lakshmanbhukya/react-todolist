@@ -47,7 +47,7 @@ npm start
 yarn start
 ```
 
-# ✅ Quick Testing Guide (Human-Friendly)
+# ✅ Quick Testing Guide
 
 Here’s how to make sure everything works smoothly — just follow along:
 
